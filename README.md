@@ -1,1 +1,1 @@
-# Hybrid-GNN-XGBoost-SBRS
+# Hybrid Session Based Recommendation System
