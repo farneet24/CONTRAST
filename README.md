@@ -4,7 +4,7 @@ This is the official implementation for the *"Adaptive Session-based Recommendat
 
 ### 🔗 Notebooks on Kaggle
 - **[CONTRAST Data Pipeline](https://www.kaggle.com/code/farneetsingh24/contrast-data-pipeline)**: Clean, transform, and structure raw data into usable session datasets.
-- **[CONTRAST Model Implementation](https://www.kaggle.com/code/farneetsingh24/contrast-model-implementation)**: Implementation of the CONTRAST architecture with training, evaluation, and visualization.
+- **[CONTRAST Model Implementation](https://www.kaggle.com/code/farneetsingh24/contrast-model-implementation)**: Architecture with training, evaluation, and visualization.
 
 ---
 
