@@ -21,7 +21,7 @@ The preprocessing steps are encapsulated in the **Data Pipeline Notebook**.
 
 ---
 
-## Performance
+## Performance Table
 
 ![Performance Table](https://github.com/user-attachments/assets/69063f0a-64d3-486d-a2b4-d6d858947d61)
 
